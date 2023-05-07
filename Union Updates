@@ -1,0 +1,25 @@
+[
+  {
+	"title": "jazz_thumbnail",
+	"author": "John Doe",
+	"date": "2023-01-01",
+	"description": "2021 Syndicate Performance Schedule.",
+	"keywords": ["jazz", "syndicate", "schedule"],
+	"url": "https://studentaffairs.unt.edu/sites/default/files/university-union/images/jazz_thumbnail.jpg"
+  },
+  {
+	"title": "blog_thumbnails",
+	"author": "Jane Smith",
+	"date": "2023-02-15",
+	"description": "The Union Blog.",
+	"keywords": ["blog", "article", "unt"],
+	"url": "https://studentaffairs.unt.edu/sites/default/files/university-union/blog_thumbnails.png"
+  },
+  {
+	"title": "uce_thumbnail",
+	"author": "Alice Johnson",
+	"date": "2023-03-10",
+	"description": "University Centers & Events.",
+	"keywords": ["uce", "discovery_park", "union"],
+	"url": "https://studentaffairs.unt.edu/sites/default/files/university-union/uce_thumbnail.png"
+  },
