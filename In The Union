@@ -1,0 +1,24 @@
+  {
+	"title": "depts_thumbnail",
+	"author": "Bob Williams",
+	"date": "2023-04-20",
+	"description": "A low angle photograph of the union.",
+	"keywords": ["union", "unt", "low_angle"],
+	"url": "https://studentaffairs.unt.edu/sites/default/files/university-union/depts_thumbnail.jpg"
+  },
+  {
+	"title": "food_thumbnail",
+	"author": "Charlie Brown",
+	"date": "2023-05-01",
+	"description": "Retail dining in the union.",
+	"keywords": ["food", "unt", "culinary"],
+	"url": "https://studentaffairs.unt.edu/sites/default/files/university-union/food_thumbnail.jpg"
+  }
+ {
+	"title": "DW_thumbnail",
+	"author": "Alice Johnson",
+	"date": "2023-03-10",
+	"description": "Union workshop.",
+	"keywords": ["union", "store", "room"],
+	"url": "https://studentaffairs.unt.edu/sites/default/files/university-union/DW_thumbnail.jpg"
+  },
